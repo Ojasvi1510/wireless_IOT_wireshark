@@ -1,0 +1,8 @@
+Cumulative(unique) MAC count over time
+MAC counts at certain time intervals
+Personal MAC tracking
+
+To Do
+Count for each MAC address
+Which MAC addresses are connected to SSID "TSH" - Workers of TSH
+Which Sites are scrolled mostly between 2am to 4am on Sunday
